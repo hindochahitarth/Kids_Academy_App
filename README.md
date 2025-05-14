@@ -1,16 +1,37 @@
-# finalprjct1
 
-A new Flutter project.
+# Kids\_Academy\_App
 
-## Getting Started
+🎓 Kids Academy is an engaging and educational mobile app built using Flutter, designed specifically for young children. The app provides fun learning activities, colorful visuals, and interactive elements to help kids understand basic concepts in an easy and enjoyable way.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🅰️ Learn English alphabets (A-Z)
+* 🔢 Learn numbers (1-100)
+* 🍎 Learn about fruits and vegetables
+* ☀️ Learn about different seasons
+* 🧼 Learn good manners and basic hygiene habits
+* 🎨 Identify colors and shapes
+* 🎵 Listen to rhymes and sounds
+* 🎮 Educational mini-games for better learning
+* 📱 Simple and colorful user interface designed for kids
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository
+   `git clone https://github.com/your-username/Kids_Academy_App.git`
+
+2. Open the project in your preferred IDE (VS Code / Android Studio)
+
+3. Get the Flutter dependencies
+   `flutter pub get`
+
+4. Run the app on an emulator or connected device
+   `flutter run`
+
+## 👨‍💻 Developed by
+
+Hitarth Hindocha
+
+---
+
+>>>>>>> f27d8431f8d02a8d0627af02b31de8d21158af88
