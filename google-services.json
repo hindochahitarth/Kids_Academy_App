@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449471587340",
+    "project_id": "kidsacademy-cd73d",
+    "storage_bucket": "kidsacademy-cd73d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449471587340:android:af0a4a3f7a0ca77902fa29",
+        "android_client_info": {
+          "package_name": "com.example.finalprjct1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449471587340-og47r1937597iqgrrajoe8spm7o5rbck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3krUsXoNxIhTRyGBQ4ANziPw1Ftt_7a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449471587340-og47r1937597iqgrrajoe8spm7o5rbck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
